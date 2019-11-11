@@ -3,7 +3,7 @@ package com.mycompany.searching;
 
 class Sentinel{ 
     static void sentinelSearch(int arr[], int n, int x)  {  
-      
+        
         int last = arr[n - 1];  
       
         arr[n - 1] = x;  
