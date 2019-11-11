@@ -1,2 +1,3 @@
 com/mycompany/searching/BinarySearch.class
-com/mycompany/searching/LinearSearch.class
+com/mycompany/searching/Sentinel.class
+com/mycompany/searching/SquentialSearch.class

@@ -1,6 +1,6 @@
 package com.mycompany.searching;
 
-public class LinearSearch {
+public class SquentialSearch {
 
     public static int linearSearch(int[] inputArray, int key) {
         for (int i = 0; i < inputArray.length; i++) {

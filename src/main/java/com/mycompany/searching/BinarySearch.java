@@ -31,5 +31,6 @@ public class BinarySearch {
         } else {
             System.out.println("Elemen found at index = " + result);
         }
+        
     }
 }
